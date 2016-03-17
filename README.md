@@ -12,7 +12,7 @@ React-Native Tab bar with more freedom
 npm install react-native-tabbar
 ```
 
-> please look at the example. More documents are coming!
+> please look at the example. More documents are coming!!
 
 ### Demo
 
